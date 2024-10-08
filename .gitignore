@@ -1,3 +1,4 @@
+/models
 /archive
 /Photos
 /database
@@ -5,4 +6,4 @@
 mias-csv.csv
 mias.ipynb
 /miasdbv1.21
-/models
+
