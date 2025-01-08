@@ -35,7 +35,6 @@ Este repositorio contiene herramientas y scripts para el procesamiento de imáge
 
 ## Ejemplos de los Resultados:
 
-Imagen original:
 ![Texto alternativo](https://raw.githubusercontent.com/AndreaCTS/imagenes/main/Screenshot%202025-01-08%20120509.png "Título opcional")
 
 Imagen después de aplicar todo el preprocesamiento paa la eliminación de ruido y mejora del contraste:
@@ -43,7 +42,6 @@ Imagen después de aplicar todo el preprocesamiento paa la eliminación de ruido
 
 Matriz de resultado de la precisión por cada una de las clases y del modelo en general, se recuerda que el accuracy del modelo es del 82%:
 ![Texto alternativo](https://raw.githubusercontent.com/AndreaCTS/imagenes/main/Screenshot%202025-01-08%20120539.png "Título opcional")
-
 
 ---
 
