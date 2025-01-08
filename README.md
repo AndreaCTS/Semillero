@@ -34,6 +34,7 @@ Este repositorio contiene herramientas y scripts para el procesamiento de imáge
 
 
 ## Ejemplos de los Resultados:
+
 Imagen original:
 ![Texto alternativo](https://raw.githubusercontent.com/AndreaCTS/imagenes/main/Screenshot%202025-01-08%20120509.png "Título opcional")
 
